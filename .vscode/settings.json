@@ -1,6 +1,8 @@
 {
     "cSpell.ignoreWords": [
         "codespace",
-        "devcontainers"
+        "devcontainers",
+        "Codespaces",
+        "wsgi"
     ]
 }
