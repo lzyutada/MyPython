@@ -1,0 +1,2 @@
+# Using github codespace
+## doc reference: https://docs.github.com/zh/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-python-project-for-codespaces
