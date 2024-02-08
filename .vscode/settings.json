@@ -3,6 +3,9 @@
         "codespace",
         "devcontainers",
         "Codespaces",
-        "wsgi"
+        "wsgi",
+        "pymongo",
+        "odbc",
+        "mydb"
     ]
 }
