@@ -9,7 +9,8 @@ here are some records for problem i meet and actions to fix them.
     - there is another way to avoid using 'app.py'. run command ```flask --app @modulename @func --debug```, refers to [quick start](https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application)
         - note, @modulename is the name of module(e.g. xx from xx.py); @func is the name of function to run.
 - demo to connect to mongodb server(on my local with host as 192.168.xx.xx) result to timeout
-    - seems to need to move my mongodb server on Atlas.
+    - (discarded)~~seems to need to move my mongodb server on Atlas.~~
+    - demo on more to mongodb moved to my local env.
 ## doc reference
 - [Setting up a Python project for GitHub Codespaces](https://docs.github.com/zh/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-python-project-for-codespaces)
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
